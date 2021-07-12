@@ -7,4 +7,4 @@ The thesis is based on data from different sources. We have made the following d
 
 In addition to this, we have uploaded our scripts. They contain all of the coding that has been used to conduct our analysis. The scripts are numbered according to the order that they should be run. Scripts related to the first part of our analysis which is based on Facebook data are called "Part_I". Scripts related to the second part of our analysis which is based on our conjoint experiment are called "Part_II". 
 
-For questions or general comments, please feel free to get in touch.
+For questions or general comments, please feel free to reach out to us.
